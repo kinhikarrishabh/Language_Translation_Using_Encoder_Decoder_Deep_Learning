@@ -28,3 +28,4 @@ The training accuracy and testing accuracy diverge around 15 epochs. This is an 
 The model reaches its peak performance on the test data at around 20 epochs. Even though the training accuracy is increasing, the model's performance is not improving on the test data.
 
 
+<img width="435" alt="image" src="https://github.com/kinhikarrishabh/Language_Translation_Using_Encoder_Decoder_Deep_Learning/assets/76053092/0b9acc59-7433-4ab1-8984-1e7cd7e7787c">
