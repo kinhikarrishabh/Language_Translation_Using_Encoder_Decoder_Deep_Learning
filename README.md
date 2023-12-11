@@ -26,3 +26,5 @@ X axis shows the epoch and the y axis shows the accuracy. The graph infers that 
 
 The training accuracy and testing accuracy diverge around 15 epochs. This is an indication of a model overfitting the data. 
 The model reaches its peak performance on the test data at around 20 epochs. Even though the training accuracy is increasing, the model's performance is not improving on the test data.
+
+
